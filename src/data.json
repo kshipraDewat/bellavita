@@ -1,6 +1,6 @@
    [ {
       "id": 1,
-      "image" : "../src/assets/1.webp",
+      "image" : "../public/1.webp",
       "title": "Luxury Oud Experience Perfume",
       "subtitle": "PERFUME MINIS FOR ALL (SET OF 4)",
       "rating": 4.8,
@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "image" : "../src/assets/2.webp",  
+      "image" : "../public/2.webp",  
       "title": "White Oud Unisex Perfume",
       "subtitle": "Eau De Parfum Artemisian lemon | Freesia | Musk",
       "rating": 4.8,
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-        "image" : "../src/assets/3.webp",
+        "image" : "../public/3.webp",
       "title": "Mood Collection Gift Set ",
       "subtitle": "Perfume Gift Set for Women ",
       "rating": 4.3,
@@ -27,7 +27,7 @@
     },
     {
       "id": 4,
-        "image" : "../src/assets/5.webp",
+        "image" : "../public/5.webp",
       "title": "Alpha (Him) -100ml",
       "subtitle": "Eau De Parfum for men",
       "rating": 5.0,
@@ -36,7 +36,7 @@
     },
     {
       "id": 5,
-        "image" : "../src/assets/6.webp",
+        "image" : "../public/6.webp",
       "title": "HOT Mess Woman Perfume - 100ml",
       "subtitle": "Eau De Parfum for Women Citrus mandarin | Jasmine | Vanilla",
       "rating": 4.9,
@@ -45,7 +45,7 @@
     },
     {
       "id": 6,
-        "image" : "../src/assets/date.avif",
+        "image" : "../public/date.avif",
       "title": "Date Women Perfume - 100ml",
       "subtitle": "Eau De Parfum for Women ",
       "rating": 4.9,
@@ -54,7 +54,7 @@
     },
     {
       "id": 7,
-        "image" : "../src/assets/black.avif",
+        "image" : "../public/black.avif",
       "title": "CEO Men Perfume - 100ml",
       "subtitle": "Eau De Parfum for Men ",
       "rating": 4.8,
@@ -63,7 +63,7 @@
     },
     {
       "id": 8,
-        "image" : "../src/assets/blu.avif",
+        "image" : "../public/blu.avif",
       "title": "BLU Man Perfume - 100ml",
       "subtitle": "Eau De Parfum for Men ",
       "rating": 4.7,
@@ -72,7 +72,7 @@
     },
     {
       "id": 9,
-      "image" : "../src/assets/11.webp",
+      "image" : "../public/11.webp",
       "title": "KLUB Man Perfume - 100ml",
       "subtitle": "EAU DE PARFUM",
       "rating": 4.4,
@@ -81,7 +81,7 @@
     },
     {
       "id": 10,
-      "image" : "../src/assets/22.webp",  
+      "image" : "../public/22.webp",  
       "title": "G.O.A.T. Man - 100ml",
       "subtitle": "Eau De Parfum",
       "rating": 4.8,
@@ -90,7 +90,7 @@
     },
     {
       "id": 11,
-        "image" : "../src/assets/33.webp",
+        "image" : "../public/33.webp",
       "title": "CEO Man - 100ml ",
       "subtitle": "Eau De Parfum",
       "rating": 4.6,
@@ -99,7 +99,7 @@
     },
     {
       "id": 12,
-        "image" : "src/assets/44.webp",
+        "image" : "../public/44.webp",
       "title": "CEO Man Intense  - 100ml",
       "subtitle": "Eau De Parfum for men",
       "rating": 5.0,

@@ -1,5 +1,5 @@
 import { createContext, useEffect, useState } from "react";
-import data from "../data.json";
+import data from "../../src/data.json";
 
 export const ProductContext = createContext([]);
 

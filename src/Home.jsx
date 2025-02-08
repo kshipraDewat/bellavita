@@ -1,9 +1,9 @@
 import img from "../src/assets/offer.webp";
 import bella from "../src/assets/bellamood.webp";
 
-import pro from "../src/assets/products/5.webp";
-import pro2 from "../src/assets/products/mag.webp";
-import pro3 from "../src/assets/products/fantasy.webp"
+import pro from "../src/assets/5.webp";
+import pro2 from "../src/assets/mag.webp";
+import pro3 from "../src/assets/fantasy.webp"
 import tick from "./assets/checklist.png"
 import ban from "./assets/newban.webp"
 import vid from "./assets/video.mp4";

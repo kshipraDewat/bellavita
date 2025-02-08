@@ -1,0 +1,110 @@
+   [ {
+      "id": 1,
+      "image" : "src/assets/products/1.webp",
+      "title": "Luxury Oud Experience Perfume",
+      "subtitle": "PERFUME MINIS FOR ALL (SET OF 4)",
+      "rating": 4.8,
+      "reviews": 590,
+      "price": 1099.00
+    },
+    {
+      "id": 2,
+      "image" : "src/assets/products/2.webp",  
+      "title": "White Oud Unisex Perfume",
+      "subtitle": "Eau De Parfum Artemisian lemon | Freesia | Musk",
+      "rating": 4.8,
+      "reviews": 871,
+      "price": 999.00
+    },
+    {
+      "id": 3,
+        "image" : "src/assets/products/3.webp",
+      "title": "Mood Collection Gift Set ",
+      "subtitle": "Perfume Gift Set for Women ",
+      "rating": 4.3,
+      "reviews": 233,
+      "price": 849.00
+    },
+    {
+      "id": 4,
+        "image" : "src/assets/products/5.webp",
+      "title": "Alpha (Him) -100ml",
+      "subtitle": "Eau De Parfum for men",
+      "rating": 5.0,
+      "reviews": 9,
+      "price": 1299.00
+    },
+    {
+      "id": 5,
+        "image" : "src/assets/products/6.webp",
+      "title": "HOT Mess Woman Perfume - 100ml",
+      "subtitle": "Eau De Parfum for Women Citrus mandarin | Jasmine | Vanilla",
+      "rating": 4.9,
+      "reviews": 63,
+      "price": 1099.00
+    },
+    {
+      "id": 6,
+        "image" : "src/assets/products/date.avif",
+      "title": "Date Women Perfume - 100ml",
+      "subtitle": "Eau De Parfum for Women ",
+      "rating": 4.9,
+      "reviews": 526,
+      "price": 999.00
+    },
+    {
+      "id": 7,
+        "image" : "src/assets/products/black.avif",
+      "title": "CEO Men Perfume - 100ml",
+      "subtitle": "Eau De Parfum for Men ",
+      "rating": 4.8,
+      "reviews": 407,
+      "price": 899.00
+    },
+    {
+      "id": 8,
+        "image" : "src/assets/blu.avif",
+      "title": "BLU Man Perfume - 100ml",
+      "subtitle": "Eau De Parfum for Men ",
+      "rating": 4.7,
+      "reviews": 303,
+      "price": 1099.00
+    },
+    {
+      "id": 9,
+      "image" : "src/assets/lux/1.webp",
+      "title": "KLUB Man Perfume - 100ml",
+      "subtitle": "EAU DE PARFUM",
+      "rating": 4.4,
+      "reviews": 582,
+      "price": 799.00
+    },
+    {
+      "id": 10,
+      "image" : "src/assets/lux/2.webp",  
+      "title": "G.O.A.T. Man - 100ml",
+      "subtitle": "Eau De Parfum",
+      "rating": 4.8,
+      "reviews": 301,
+      "price": 799.00
+    },
+    {
+      "id": 11,
+        "image" : "src/assets/lux/3.webp",
+      "title": "CEO Man - 100ml ",
+      "subtitle": "Eau De Parfum",
+      "rating": 4.6,
+      "reviews": 856,
+      "price": 899.00
+    },
+    {
+      "id": 12,
+        "image" : "src/assets/lux/4.webp",
+      "title": "CEO Man Intense  - 100ml",
+      "subtitle": "Eau De Parfum for men",
+      "rating": 5.0,
+      "reviews": 9,
+      "price": 1299.00
+    }
+
+]

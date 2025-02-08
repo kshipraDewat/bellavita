@@ -1,6 +1,6 @@
 import img from "../assets/banner.webp"
 import img2 from "../assets/bannner.webp"
-import img3 from "../assets/src/assets/Instruction_banner.webp"
+import img3 from "../assets/Instruction_banner.webp"
 import pro1 from "../assets/products/1.webp"
 import pro2 from "../assets/products/2.webp"
 import pro3 from "../assets/products/3.webp"

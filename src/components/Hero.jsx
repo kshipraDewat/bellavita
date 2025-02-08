@@ -7,7 +7,6 @@ import pro3 from "../assets/products/3.webp"
 import pro4 from "../assets/products/5.webp"
 import pro5 from "../assets/products/6.webp"
 import img4 from "../assets/Luxe_Perfumes.webp"
-
 import ocean from "../assets/ocean.avif"
 import blu from "../assets/blu.avif"
 

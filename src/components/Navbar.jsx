@@ -27,7 +27,7 @@ const Navbar = () => {
               
     </nav>
     <nav className='flex items-center justify-center  p-2 text-black shadow'>
-    <div className='flex gap-10 list-none uppercase text-sm'>
+    <div className='flex gap-5 lg:gap-10 list-none uppercase text-sm'>
               <Link to={"/home"}>Home</Link>
               <Link to={"/about"}>About</Link>
               <Link to={"/collection"}>Collection</Link>
